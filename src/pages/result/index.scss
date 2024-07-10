@@ -1,0 +1,31 @@
+.resultPage{
+  .at-article__h1 {
+  white-space: nowrap; /* 防止换行 */
+  .personality{
+    font-size: 2rem;
+    font-weight: 600;
+    color: #333;
+    padding: 20px;}
+    .description{
+    font-size: 0.9rem;
+    color: #666;
+    padding: 20px;
+    }
+}
+
+
+
+.inset-shadow{
+    margin: 20rpx 40rpx;
+    height: 50vw;
+    background-color: #fff;
+    box-shadow: inset 10rpx 10rpx 20rpx rgba(0, 0, 0, 0.1);
+    border-radius: 20rpx;
+}
+
+.enterBtn{
+  margin-top: 5vh;
+  width: 60vw;
+  min-width: 180px;
+}
+}

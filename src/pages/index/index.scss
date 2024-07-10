@@ -1,0 +1,28 @@
+.indexPage{
+  background-image: url('../../assets/images/MBTI.png');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh; /* 视口高度 */
+  color: #fff; /* 白色文字 */
+  // text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* 黑色阴影 */
+
+.title,.subTitle{
+  background-color: rgba(255, 255, 255, 0.8); /* 半透明黑色背景 */
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.enterBtn{
+  margin-top: 20vh;
+  width: 60vw;
+  min-width: 180px;
+}
+
+}
+
+.title{
+  font-size: 2rem;
+  // margin-top: 20vh;
+  text-align: center;
+}
